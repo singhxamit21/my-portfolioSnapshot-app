@@ -1,12 +1,40 @@
-# React + Vite
+# 📊 Portfolio Snapshot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio  built with **React.js**, **Tailwind CSS**, and **Recharts**. It provides a clean snapshot of investment data including user summary, asset allocation, and holdings.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📅 Date-based portfolio snapshots
+- 📈 Asset allocation pie chart using `recharts`
+- 💼 Holdings table with return % and SIP info
+- 🔔 Toast notifications
+- 📱 Responsive design (mobile-friendly)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- [React.js](https://vite.dev/guide/) (React, JavaScript)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Recharts](https://recharts.org/)
+
+---
+
+## ⚙️ Getting Started
+
+1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/portfolio-snapshot.git
+cd portfolio-snapshot
+
+2. Install Dependencies
+
+npm install
+
+3. Run the Dev Server
+
+npm run dev
+
